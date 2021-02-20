@@ -12,5 +12,5 @@ To follow along with the demo in real time, youll need:
 The sculptures in the background of my talk respond to tweets containing the hashtag <b>#pycascadesled</b> and <a href=https://htmlcolorcodes.com/color-names/>CSS color word</a> (words only, not RGB or HEX). The display colors will change to the color mentioned in the tweet after a three second delay. However, the talk may be streamed on a 20 second delay, so you may not see changes occur instantly.
 
 ## Additional Resources
--<a href=https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel>Adafruit's NeoPixel CircuitPython Learn Guide</a>
--<a/href=https://learn.adafruit.com/circuitpython-led-animations>Adafruit's CircuitPython LED Animation Guide</a>
+- <a href=https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel>Adafruit's NeoPixel CircuitPython Learn Guide</a>
+- <a href=https://learn.adafruit.com/circuitpython-led-animations>Adafruit's CircuitPython LED Animation Guide</a>
