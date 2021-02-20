@@ -1,5 +1,5 @@
 # PyCascades2021
-Materials and information for PyCascades 2021 Presentation: Sparking Creativity in LED Art with CircuitPython
+Materials and information for PyCascades 2021 Presentation: <b>Sparking Creativity in LED Art with CircuitPython<b>
 
 ## Live Demo Resources
 To follow along with the demo in real time, youll need:
