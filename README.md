@@ -17,6 +17,9 @@ To install the animation libraries from this repository, drag the correct folder
 ## Interactive LED Sculpture
 The sculptures in the background of my talk respond to tweets containing the hashtag <b>#pycascadesled</b> and <a href=https://htmlcolorcodes.com/color-names/>CSS color word</a> (words only, not RGB or HEX). The display colors will change to the color mentioned in the tweet after a three second delay. However, the talk may be streamed on a 20 second delay, so you may not see changes occur instantly.
 
+## Presentation Slides
+Presentation slides are online at speakerdeck <a href=https://speakerdeck.com/geekmomprojects/sparking-creativity-in-led-art-with-circuitpython>https://speakerdeck.com/geekmomprojects/sparking-creativity-in-led-art-with-circuitpython</a>
+
 ## Additional CircuitPython LED Animation Resources
 - <a href=https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel>Adafruit NeoPixel CircuitPython Learn Guide</a>
 - <a href=https://learn.adafruit.com/circuitpython-led-animations>Adafruit CircuitPython LED Animation Guide</a>
