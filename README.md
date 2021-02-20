@@ -6,7 +6,7 @@ To follow along with the demo in real time, youll need:
   - A microcontroller running CircuitPython 6.0 (installation instructions here: <a href=https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython>https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython</a>)
   - An LED strip/string/matrix or a board (like Adafruit's <a href=https://www.adafruit.com/product/3333>CircuitPlayground Express</a>) with built-in LEDs
   - A Python coding environment like <a href=https://codewith.mu/>the Mu code editor</a>
-  - The CircuitPython led_animation libraries and dependencies. If you have CircuitPython 6.0 installed, you can download just the libraries for the demo from this repository. There are three included:
+  - The CircuitPython led_animation libraries and dependencies. If you have CircuitPython 6.0 installed, you can download just the libraries for the demo from this repository. Use *one* of the three included libraries:
     *  <b>bare_bones_led_animation_libraries</b> A minimal library bundle for use with an ATSAMD21 board without extra flash memory (e.g Gemma M0, Trinket M0 QtPy M0. Note that any board labelled "Express" *does* have extra flash)
     *  <b>complete_led_animation_libraries</b> A more comprehensive set of animation libraries for boards with a bit more memory
     *  <b>complete_animation_libraries_with_bluetooth</b> Use these if you have a bluetooth-enabled board
